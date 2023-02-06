@@ -13,6 +13,7 @@ class MyApp extends StatelessWidget {
       title: '191156 - Jordancho Eftimov',
       theme: ThemeData(
         primarySwatch: Colors.blue,
+        scaffoldBackgroundColor: Colors.yellow,
       ),
       home: const MyHomePage(title: '191156 - Jordancho Eftimov'),
     );
